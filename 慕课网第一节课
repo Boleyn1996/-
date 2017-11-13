@@ -1,9 +1,0 @@
-<html>
-<head><!--head是头部-->
-	<title>hello</title><!--title是标题-->
-</head><!--标题结束一定要用/-->
-<body bgcolor="blue"><!--bgcolor是颜色的意思-->
-<p>hello html</p>
-<hr/><!--hr是水平线-->
-</body>
-</html>
